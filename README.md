@@ -1,4 +1,4 @@
-# Load flow Loss Allocation in Radial Distributions ystems
+# Load flow Loss Allocation in Radial Distribution systems
 A whole solution for Load flow in Radial Distribution systems using Teng's method of load flow analysis and allocating losses based on the Exact method in Python.
 Tengs method includes formation of BIBC and BCBV matrices which help in computing the DLF(Distribution Load Flow) matrix.
 Single Line diagram 9 bus system.
